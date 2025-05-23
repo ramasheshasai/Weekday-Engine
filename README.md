@@ -40,3 +40,8 @@ g++ main.cpp -o dayfinder
 This version uses OOP and friend classes for modular calculations and prints step-by-step intermediate values.
 
 
+
+
+
+https://rama082005.pythonanywhere.com/
+
