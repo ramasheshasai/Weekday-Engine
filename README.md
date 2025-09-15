@@ -24,6 +24,7 @@ This project helps users find the **day of the week** for any given date using a
 
 ### ▶️ How to Run
 
+
 1. **Install dependencies**
    ```bash
    pip install Flask
